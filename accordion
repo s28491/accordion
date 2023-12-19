@@ -1,0 +1,58 @@
+<section class="accordion">
+  <ul class="accordion-list">
+    <li class="accordion-item">
+      <input type="checkbox" id="collapse-1" class="accordion-button">
+      <label for="collapse-1" class="accordion-header">
+        <p>Tekstovi</p>
+        <p class="closed">+</p>
+        <p class="opened">-</p>
+      </label>
+
+      <section class="content">
+        <p>Video arhiva</p>
+      </section>
+    </li>
+    <li class="accordion-item">
+      <input type="checkbox" id="collapse-2" class="accordion-button">
+      <label for="collapse-2" class="accordion-header">
+        <p>Fotogalerija</p>
+        <p class="closed">+</p>
+        <p class="opened">-</p>
+      </label>
+
+      <section class="content">
+        <p>- Sub Accordion 1</p>
+        <p>- Sub Accordion 2</p>
+      </section>
+    </li>
+    <li class="accordion-item">
+      <input type="checkbox" id="collapse-3" class="accordion-button">
+      <label for="collapse-3" class="accordion-header">
+        <p>Accordion 3</p>
+        <p class="closed">+</p>
+        <p class="opened">-</p>
+      </label>
+
+      <section class="content">
+        <p>- Sub Accordion 1</p>
+        <p>- Sub Accordion 2</p>
+        <p>- Sub Accordion 3</p>
+      </section>
+    </li>
+    <li class="accordion-item">
+      <input type="checkbox" id="collapse-4" class="accordion-button">
+      <label for="collapse-4" class="accordion-header">
+        <p>Accordion 4</p>
+        <p class="closed">+</p>
+        <p class="opened">-</p>
+      </label>
+
+      <section class="content">
+        <p>Predgovor</p>
+        <p>- Sub Accordion 2</p>
+        <p>- Sub Accordion 3</p>
+        <p>- Sub Accordion 4</p>
+      </section>
+    </li>
+  </ul>
+</section>
