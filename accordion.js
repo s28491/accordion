@@ -1,3 +1,4 @@
+// JavaScript Document
 $(document).ready(function () {
   $(".accordion-button").on("change", function () {
     $(".accordion-button").not(this).prop("checked", false);
